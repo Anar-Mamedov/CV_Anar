@@ -1,0 +1,8 @@
+.DS_Store
+.node_modules
+*.map
+sftp.json
+.vscode
+.ftpconfig
+atom-sftp-sync.json
+ftp-sync.json
