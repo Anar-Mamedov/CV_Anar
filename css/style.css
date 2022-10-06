@@ -3632,7 +3632,9 @@ input[type=number] {
 
     .dizme_tm_skills .right {
         padding-left: 0;
-        width: 100%
+        width: 100%;
+        /* display: flex;
+        justify-content: center; */
     }
 
     .dizme_tm_skills .right img {
