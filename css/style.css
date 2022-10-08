@@ -3957,3 +3957,19 @@ input[type=number] {
         margin-bottom: 120px
     }
 }
+
+
+/* kendi yazdığım css ler  */
+
+
+@media(max-width:1040px) {
+    .language_skills {
+        width: 100% !important;
+    }
+}
+
+@media (min-width: 1041px) {
+    .language_skills {
+        width: 45% !important;
+    }
+}
