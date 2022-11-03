@@ -1,5 +1,5 @@
 # CV_Anar
 
-http://anarmamedov.com/
+https://anarmamedov.com/
 
  This website is made for CV and portfolio purposes.
